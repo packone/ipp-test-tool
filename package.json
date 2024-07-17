@@ -1,0 +1,15 @@
+{
+  "name": "ipp-test-tool",
+  "version": "1.0.0",
+  "description": "nodejs scripts used with ipp printers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ipp": "^2.0.1",
+    "pdfkit": "^0.15.0"
+  }
+}
